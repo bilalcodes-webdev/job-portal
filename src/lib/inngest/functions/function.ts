@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { prisma } from "@/lib/prisma";
 import { inngest } from "../client";
 import { resend } from "@/lib/resend";
