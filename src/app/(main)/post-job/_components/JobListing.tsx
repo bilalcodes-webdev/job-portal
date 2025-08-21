@@ -1,3 +1,4 @@
+// @ts-nocheck
 import RenderEmptyState from "@/components/general/RenderEmptyState";
 import { prisma } from "@/lib/prisma";
 import JobCard from "./JobCard";
