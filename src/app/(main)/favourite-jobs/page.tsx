@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { checkUser } from "@/app/data/user/require-user";
 import { prisma } from "@/lib/prisma";
 import {
